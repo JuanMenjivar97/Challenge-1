@@ -4,3 +4,8 @@ body{
     background-size: auto;
     background-repeat: no-repeat;
 }
+
+div.logo{
+    margin-top: 35px;
+    margin-left: 45px;
+}
